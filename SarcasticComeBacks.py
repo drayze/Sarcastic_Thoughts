@@ -6,10 +6,7 @@
 
 
 #The Array
-Response_repo = ["\n-----------","Say something in quotes", "Separate you entries with a coma , ", 
-                "Don't forget to save your work", "What the f*?? are you waiting for say something", 
-                "-----------", "Delete the\ncontents of\nResponse_repo\nand add\nyour contribution", 
-                "----------", "example starting point\n  Response_repo = [ ]\n "]
+Response_repo = ["Your mamma's so fat, that when she lays around the house...She REALLY LAYS AROUND THE HOUSE.","er;pewrjpepjeroprjio[jfre[oijorifjroijforjig[orej]]]"]
 
 
 
